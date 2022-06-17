@@ -1,5 +1,5 @@
-import { marquee } from './marquee.js'
-import { tab } from './tab.js'
+import marquee from './marquee.js'
+import tab from './tab.js'
 
 marquee()
 tab()
